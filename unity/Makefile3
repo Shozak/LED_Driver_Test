@@ -1,0 +1,4 @@
+C_COMPILER	= gcc
+hellomake:
+	gcc TestDumbExample.c DumbExample.c C:\Users\Mazen\Google Drive\Skola\Test\unity\src\unity.c -o TestDumbExample.exe
+	TestDumbExample
