@@ -118,17 +118,6 @@ Another way of calling TEST_ASSERT_EQUAL_INT
 Asserts that the actual value is within plus or minus delta of the expected value.  This also comes in
 size specific variants.
 
-
-    TEST_ASSERT_GREATER_THAN(threshold, actual)
-
-Asserts that the actual value is greater than the threshold. This also comes in size specific variants.
-
-
-    TEST_ASSERT_LESS_THAN(threshold, actual)
-
-Asserts that the actual value is less than the threshold. This also comes in size specific variants.
-
-
 Arrays
 ------
 
